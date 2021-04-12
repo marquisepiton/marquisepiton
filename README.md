@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**marquisepiton/marquisepiton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -11,4 +9,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about: I love writing, reading, playing video games and working out. 
 - 📫 How to reach me: [pitonmarquise@gmail.com](pitonmarquise@gmail.com)
 - ⚡ Fun fact: I study data on my spare time. 🔬
--->
+
